@@ -23,6 +23,8 @@ Once it was running, I gave it the treatment it deserves on a modern phone:
 
 I also cleaned up everything that was left over from Gameloft's online stuff. The game is now fully offline, with no ads and no tracking, and it doesn't ask for any permission. The buttons that sent you to services that don't exist anymore (Gameloft LIVE, More Games, cloud saves, Twitter and Facebook sharing) are gone, and so are the buttons to buy in-game money with real money. The old downloader and the Google Play license check, which can't work anymore, are gone too: the game data is packed inside the APK, so there's nothing to download separately.
 
+You can also play with a controller. Connect a gamepad (Bluetooth or USB) and the game switches to the controls it originally had for the Xperia Play, menus included: D-pad or left stick to move, A to jump and confirm, right stick to turn the camera. You can connect it even while you're playing. Without a controller nothing changes, the touch controls work as before.
+
 [![Oscorp](screenshots/oscorp.png)](screenshots/oscorp.png)
 
 [![Takedown](screenshots/takedown.png)](screenshots/takedown.png)
