@@ -59,4 +59,4 @@ Original game by Gameloft.
 If you enjoy my projects and would like to support my work, you can buy me a coffee on Ko-fi! Every project I create is and will always remain free, but any support is greatly appreciated and helps me keep working on new projects and improvements.
 
 Thank you for your support! ❤️
-ko-fi.com/redmemories_ita
+[ko-fi.com/redmemories_ita](https://ko-fi.com/redmemories_ita)
