@@ -17,6 +17,7 @@ Once it was running, I gave it the treatment it deserves on a modern phone:
 - sharper textures, especially roads and buildings seen at an angle
 - the iOS look: warm sunny lighting and full colors from the iPhone version, plus the iOS menus, HUD, fonts and city map, which have smoother colors and sharper text than the Android ones
 - no more shimmering on Spider-Man's suit
+- touch buttons with the same proportions on every phone, also on 720p screens where they used to be huge
 - a steady 60 fps
 
 [![Rooftop](screenshots/rooftop.png)](screenshots/rooftop.png)
