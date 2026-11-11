@@ -15,6 +15,8 @@ Once it was running, I gave it the treatment it deserves on a modern phone:
 - 32-bit color instead of the original 16-bit
 - the highest graphics profile: the game didn't recognize modern GPUs and fell back to its low-end phone settings, now it always uses the full one, with higher resolution textures, bloom, lens flares, depth of field, longer draw distance and more cars and people in the streets
 - sharper textures, especially roads and buildings seen at an angle
+- the iOS look: warm sunny lighting and full colors from the iPhone version, plus the iOS menus, HUD, fonts and city map, which have smoother colors and sharper text than the Android ones
+- no more shimmering on Spider-Man's suit
 - a steady 60 fps
 
 [![Rooftop](screenshots/rooftop.png)](screenshots/rooftop.png)
@@ -23,7 +25,7 @@ Once it was running, I gave it the treatment it deserves on a modern phone:
 
 I also cleaned up everything that was left over from Gameloft's online stuff. The game is now fully offline, with no ads and no tracking, and it doesn't ask for any permission. The buttons that sent you to services that don't exist anymore (Gameloft LIVE, More Games, cloud saves, Twitter and Facebook sharing) are gone, and so are the buttons to buy in-game money with real money. The old downloader and the Google Play license check, which can't work anymore, are gone too: the game data is packed inside the APK, so there's nothing to download separately.
 
-You can also play with a controller. Connect a gamepad (Bluetooth or USB) and the game switches to the controls it originally had for the Xperia Play, menus included: D-pad or left stick to move, A to jump and confirm, right stick to turn the camera. You can connect it even while you're playing. Without a controller nothing changes, the touch controls work as before.
+You can also play with a controller. Connect a gamepad (Bluetooth or USB) or use the built-in controls of an Android handheld (AYN Odin, Retroid...) and the game switches to the controls it originally had for the Xperia Play, menus included: D-pad or left stick to move, A to jump and confirm, right stick to turn the camera. You can connect it even while you're playing. Without a controller nothing changes, the touch controls work as before.
 
 [![Oscorp](screenshots/oscorp.png)](screenshots/oscorp.png)
 
