@@ -15,7 +15,7 @@ Once it was running, I gave it the treatment it deserves on a modern phone:
 - 32-bit color instead of the original 16-bit
 - the highest graphics profile: the game didn't recognize modern GPUs and fell back to its low-end phone settings, now it always uses the full one, with higher resolution textures, bloom, lens flares, depth of field, longer draw distance and more cars and people in the streets
 - sharper textures, especially roads and buildings seen at an angle
-- the iOS look: warm sunny lighting and full colors from the iPhone version, plus the iOS menus, HUD, fonts and city map, which have smoother colors and sharper text than the Android ones
+- the iOS look: warm sunny lighting and the richer, warmer colors of the iPhone version (a red and blue suit that really pops), plus the iOS menus, HUD, fonts and city map, which have smoother colors and sharper text than the Android ones
 - no more shimmering on Spider-Man's suit
 - touch buttons with the same proportions on every phone, also on 720p screens where they used to be huge
 - a steady 60 fps
@@ -41,6 +41,19 @@ You can also play with a controller. Connect a gamepad (Bluetooth or USB) or use
 3. Open it. The first launch takes a little while to unpack the game, after that it starts right away
 
 No PC, no extra downloads, no account.
+
+## Settings
+
+If the game is slow or your phone gets hot, long-press the app icon and tap **Settings**. You can:
+
+- turn off anti-aliasing (the heaviest option on mid-range phones, try this first)
+- lower the resolution to 75% or 50%
+- cap the frame rate at 30 fps
+- turn off the post-processing effects (bloom, color grading, motion blur)
+- switch between the iOS colors and the original Android ones
+- reduce the traffic and the people in the streets, which is lighter on the CPU
+
+Saving restarts the game, your progress is kept.
 
 ## Requirements
 
