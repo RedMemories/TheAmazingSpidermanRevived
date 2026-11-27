@@ -52,8 +52,15 @@ If the game is slow or your phone gets hot, long-press the app icon and tap **Se
 - turn off the post-processing effects (bloom, color grading, motion blur)
 - switch between the iOS colors and the original Android ones
 - reduce the traffic and the people in the streets, which is lighter on the CPU
+- cheats: unlimited Spiders and unlimited Skill Points (off by default)
 
 Saving restarts the game, your progress is kept.
+
+## Updating and saves
+
+To update, install the new APK over the old one: don't uninstall first, uninstalling deletes your saves. From 1.8 on, if you do uninstall, Android asks whether to keep the app data: say yes to keep your progress.
+
+Saves from other versions of the game (the original Gameloft app or other repacks) can't be imported: Android keeps every app's saves in a private folder that other apps can't read without root.
 
 ## Requirements
 
